@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yaniv and I'm a highly motivated computer science student.
+My name is Yaniv and I'm a computer science student.
 
 Interested in  AI (currently I’m taking Machine Learning and Deep Learning courses, about to take Computer Vision and NLP courses in the next semester ), hungry to learn new things !
 
