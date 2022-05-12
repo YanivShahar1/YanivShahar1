@@ -2,7 +2,7 @@
 
 😉 My name is Yaniv and I'm a computer science student.
 
-👀 Interested in AI (Machine learning , Deep Learning, NLP , Computer Vision), and quantum computing !
+👀 Interested in AI and quantum computing !
 
 📫 Feel free to contact me any time ! yanivshahar97@gmail.com
 
