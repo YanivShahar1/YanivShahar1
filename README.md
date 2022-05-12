@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 My name is Yaniv and I'm a computer science student.
+😉 My name is Yaniv and I'm a computer science student.
 
 👀 Interested in AI (Machine learning , Deep Learning, NLP , Computer Vision), and quantum computing !
 
