@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😉 My name is Yaniv and I'm a computer science student.
+😉 My name is Yaniv and I'm a 3rd year computer science student.
 
-👀 Interested in AI and quantum computing !
+- 🔭 I’m currently working on my "Enigma Machine" project.
 
 📫 Feel free to contact me any time ! yanivshahar97@gmail.com
 
