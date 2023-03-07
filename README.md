@@ -2,8 +2,6 @@
 
 😉 My name is Yaniv and I'm a 3rd year computer science student.
 
-- 🔭 I’m currently working on the Enigma Machine project.
-
 📫 Feel free to contact me any time ! yanivshahar97@gmail.com
 
 <!--
