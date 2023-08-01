@@ -1,20 +1,33 @@
-### Hi there 👋
+## Hello, I'm Yaniv Shahar 👋
 
-😉 My name is Yaniv and I'm a 3rd year computer science student.
+I'm a passionate and dedicated software developer with a strong interest in object-oriented programming, design patterns, software architecture, AI, and data science. As a computer science graduate with a minor in data science, I have experience in developing complex systems and I'm always eager to learn and explore new technologies and concepts.
 
-📫 Feel free to contact me any time ! yanivshahar97@gmail.com
+### 🛠️ My Skills
 
-<!--
-**YanivShahar1/YanivShahar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Proficient in multiple programming languages including **C#, C++, Java, and Python**.
+- Strong understanding of **object-oriented programming** and **design patterns**.
+- Experience with **AI** and **data science**, including machine learning and data analysis.
+- Experience with **developing comprehensive systems** and managing all stages of the development process.
+- Good understanding of **error handling**, **data encapsulation**, and **software architecture**.
+- Demonstrated ability to work in team environments and independently.
+- Proven problem-solving skills and attention to detail.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently delving deeper into **software architecture**, **design patterns**, **efficient coding practices**, and **AI technologies**. I'm also exploring other programming languages and technologies to broaden my skill set and stay updated with the latest industry trends.
+
+### 👨‍💻 My Work
+
+Feel free to explore my repositories to see the projects I've worked on. They range from games to simulations to autonomous systems, each demonstrating my coding skills and understanding of software development principles.
+
+### 🤝 How to Reach Me
+
+I'm always open to discussing programming, problem-solving, or potential opportunities. Feel free to reach out!
+
+- Email: (yanivshahar97@gmail.com)
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/yanivshahar/))
+
+### ⭐ Fun Facts
+
+When I'm not coding, I love to cook. It's a different kind of creativity that I find relaxing and rewarding.
+
