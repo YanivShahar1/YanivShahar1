@@ -24,8 +24,8 @@ Feel free to explore my repositories to see the projects I've worked on. They ra
 
 I'm always open to discussing programming, problem-solving, or potential opportunities. Feel free to reach out!
 
-- Email: (yanivshahar97@gmail.com)
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/yanivshahar/))
+- Email: yanivshahar97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yanivshahar/
 
 ### ⭐ Fun Facts
 
