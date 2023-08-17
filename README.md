@@ -21,10 +21,6 @@ Notable problem-solving skills with keen attention to detail.
 
 I'm currently delving deeper into **software architecture**, **design patterns**, **efficient coding practices**, and **AI technologies**. I'm also exploring other programming languages and technologies to broaden my skill set and stay updated with the latest industry trends.
 
-### 👨‍💻 My Work
-
-Feel free to explore my repositories to see the projects I've worked on. They range from games to simulations to autonomous systems, each demonstrating my coding skills and understanding of software development principles.
-
 ### 🤝 How to Reach Me
 
 I'm always open to discussing programming, problem-solving, or potential opportunities. Feel free to reach out!
