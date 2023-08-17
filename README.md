@@ -1,6 +1,6 @@
 ## Hello, I'm Yaniv Shahar 👋
 
-I'm a passionate and dedicated software developer with a strong interest in object-oriented programming, design patterns, software architecture, AI, and data science. As a computer science graduate with a minor in data science, I have experience in developing complex systems and I'm always eager to learn and explore new technologies and concepts.
+Passionate and dedicated software developer with a strong focus on object-oriented programming, design patterns, and software architecture. A computer science graduate with a minor in data science, I specialize in developing intricate systems. Eager to explore new technologies and concepts, I'm actively seeking opportunities to contribute my backend development expertise to create robust and efficient solutions.
 
 ### 🛠️ My Skills
 
