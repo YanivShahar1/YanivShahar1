@@ -4,13 +4,13 @@ I'm a passionate and dedicated software developer with a strong interest in obje
 
 ### 🛠️ My Skills
 
-- Proficient in multiple programming languages including **C#, C++, Java, and Python**.
-- Strong understanding of **object-oriented programming** and **design patterns**.
-- Experience with **AI** and **data science**, including machine learning and data analysis.
-- Experience with **developing comprehensive systems** and managing all stages of the development process.
-- Good understanding of **error handling**, **data encapsulation**, and **software architecture**.
-- Demonstrated ability to work in team environments and independently.
-- Proven problem-solving skills and attention to detail.
+Proficient in **C#**, **C++**, **Java**, **Python**.
+Strong grasp of **object-oriented programming** and **design patterns**.
+Experience in AI and data science, including machine learning.
+Understanding of error handling, data encapsulation, and software architecture.
+Effective team player and independent worker.
+Notable problem-solving skills with keen attention to detail.
+
 
 ### 🌱 What I'm Learning
 
