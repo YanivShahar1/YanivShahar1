@@ -32,7 +32,4 @@ I'm always open to discussing programming, problem-solving, or potential opportu
 - Email: yanivshahar97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yanivshahar/
 
-### ⭐ Fun Facts
-
-When I'm not coding, I love to cook. It's a different kind of creativity that I find relaxing and rewarding.
 
