@@ -1,6 +1,6 @@
 ## Hello👋
 
-My name is Yaniv Shahar, I'm a passionate and dedicated software developer with a strong focus on object-oriented programming, design patterns, and software architecture. A computer science graduate with a minor in data science. Eager to explore new technologies and concepts, I'm actively seeking opportunities to contribute my backend development expertise to create robust and efficient solutions.
+My name is Yaniv Shahar, am a motivated Computer Science graduate and Dean's List honoree, seeking an entry-levelbackend/fullstack development role. Ready to apply versatile programming skills in dynamic projects,available immediately to contribute effectively and excel in a full-time position.
 
 ### 🛠️ My Skills
 
