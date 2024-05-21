@@ -1,6 +1,6 @@
 ## Hello👋
 
-My name is Yaniv Shahar, am a motivated Computer Science graduate and Dean's List honoree, seeking an entry-levelbackend/fullstack development role. Ready to apply versatile programming skills in dynamic projects,available immediately to contribute effectively and excel in a full-time position.
+My name is Yaniv Shahar, am a motivated Computer Science graduate and Dean's List honoree, seeking an entry-level backend/fullstack development role. Ready to apply versatile programming skills in dynamic projects,available immediately to contribute effectively and excel in a full-time position.
 
 ### 🛠️ My Skills
 
