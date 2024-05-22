@@ -1,18 +1,18 @@
-## Hello👋
+## Hello 👋
 
-My name is Yaniv Shahar, am a motivated Computer Science graduate and Dean's List honoree, seeking an entry-level backend/fullstack development role. Ready to apply versatile programming skills in dynamic projects,available immediately to contribute effectively and excel in a full-time position.
+My name is Yaniv, and I am a motivated Computer Science graduate and Dean's List honoree, actively seeking an entry-level backend or fullstack development role. I am ready to apply my versatile programming skills to dynamic projects and am available immediately to contribute effectively and excel in a full-time position.
 
 ### 🛠️ My Skills
 
-Proficient in **C#**, **C++**, **Java**, **Python**.
+- **Programming Languages**: Proficient in **C#**, **C++**, **Java**, **Python**
+- **Web Development**: Experienced with **HTML**, **CSS**, **React**
+- **Frameworks**: Knowledgeable in **.NET Core**, **ASP.NET**, **Node.js**, **Spring Boot**, **Django**, **Flask**
+- **Databases**: Skilled in **SQL**, **NoSQL** (including **MongoDB**, **AWS DynamoDB**)
+- **Authentication Services**: Proficient with **AWS Cognito**
+- **Software Engineering**: Strong grasp of **object-oriented programming** and **design patterns**
+- **Development Practices**: Proficient in data encapsulation and designing robust software architectures
+- **Cloud Services**: Experienced with deploying and managing applications on **AWS**
 
-Strong grasp of **object-oriented programming** and **design patterns**.
-
-Understanding of error handling, data encapsulation, and software architecture.
-
-Effective team player and independent worker.
-
-Notable problem-solving skills with keen attention to detail.
 
 ### 🤝 How to Reach Me
 
