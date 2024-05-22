@@ -10,7 +10,7 @@ My name is Yaniv, and I am a motivated Computer Science graduate with a minor in
 - **Authentication Services**: Proficient with **AWS Cognito**
 - **Software Engineering**: Strong grasp of **object-oriented programming** and **design patterns**
 - **Development Practices**: Proficient in data encapsulation and designing robust software architectures
-- **Cloud Services**: Experienced with deploying and managing applications on **AWS**
+- **Cloud Services**: Familiar with deploying and managing applications on **AWS**
 - **Data Science**: 
   - Minor in Data Science with coursework in **intro to machine learning**, **deep learning**, and **computer vision**
   - Familiar with **NumPy**, **PyTorch**, **Matplotlib**, **Pandas**, **OpenCV**, **TensorFlow**, **Keras**
