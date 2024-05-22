@@ -17,6 +17,7 @@ My name is Yaniv, and I am a motivated Computer Science graduate with a minor in
 
 
 
+
 ### 🤝 How to Reach Me
 
 I'm always open to discussing programming, problem-solving, or potential opportunities. Feel free to reach out!
