@@ -5,7 +5,7 @@ My name is Yaniv, and I am a motivated Computer Science graduate with a minor in
 
 - **Programming Languages**: Proficient in **C#**, **C++**, **Java**, **Python**
 - **Web Development**: Experienced with **HTML**, **CSS**, **React**
-- **Frameworks**: Knowledgeable in **.NET Core**, **ASP.NET**, **Node.js**, **Spring Boot**, **Django**, **Flask**
+- **Frameworks**: Knowledgeable in **.NET Core**, **ASP.NET**, **Node.js**, **Django**, **Flask**
 - **Databases**: Skilled in **SQL**, **NoSQL** (including **MongoDB**, **AWS DynamoDB**)
 - **Authentication Services**: Proficient with **AWS Cognito**
 - **Software Engineering**: Strong grasp of **object-oriented programming** and **design patterns**
