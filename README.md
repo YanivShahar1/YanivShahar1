@@ -1,12 +1,12 @@
 ## Hello 👋
-My name is Yaniv, and I am a motivated Computer Science graduate with a minor in Data Science and Dean's List honoree, actively seeking an entry-level backend or fullstack development role. I am ready to apply my versatile programming skills to dynamic projects and am available immediately to contribute effectively and excel in a full-time position.
+My name is Yaniv, and I am a motivated Computer Science graduate with a minor in Data Science, actively seeking an entry-level software development role. I am ready to apply my versatile programming skills to dynamic projects and am available immediately to contribute effectively and excel in a full-time position.
 
 ### 🛠️ My Skills
 
-- **Programming Languages**: Proficient in **C#**, **C++**, **Java**, **Python**
-- **Web Development**: Experienced with **HTML**, **CSS**, **React**
+- **Programming Languages**: Proficient in **C#**,**C**, **C++**, **Java**, **Python**
+- **Web Development**: Experienced with **JavaScript**, **HTML**, **CSS**, **React**
 - **Frameworks**: Knowledgeable in **.NET Core**, **ASP.NET**, **Node.js**, **Django**, **Flask**
-- **Databases**: Skilled in **SQL**, **NoSQL** (including **MongoDB**, **AWS DynamoDB**)
+- **Databases**: Skilled in **SQL**, **NoSQL** 
 - **Authentication Services**: Proficient with **AWS Cognito**
 - **Software Engineering**: Strong grasp of **object-oriented programming** and **design patterns**
 - **Development Practices**: Proficient in data encapsulation and designing robust software architectures
