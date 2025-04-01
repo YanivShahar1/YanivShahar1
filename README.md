@@ -3,7 +3,7 @@ My name is Yaniv, and I am a motivated Computer Science graduate with a minor in
 
 ### 🛠️ My Skills
 
-- **Programming Languages**: Proficient in **C#**,**C**, **C++**, **Java**, **Python**
+- **Programming Languages**: Proficient in **C#**,**JavaScript** **Python**
 - **Web Development**: Experienced with **JavaScript**, **HTML**, **CSS**, **React**
 - **Frameworks**: Knowledgeable in **.NET Core**, **ASP.NET**, **Node.js**, **Django**, **Flask**
 - **Databases**: Skilled in **SQL**, **NoSQL** 
